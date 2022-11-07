@@ -18,5 +18,5 @@ I am for hire, to solve your high-level software problems.
 ---
 
 <ul>
-  <li>🐘 <a rel="me" href="https://bitcoinhackers.org/@berkes">Mastodon Verification</a></li>
+  <li>🐘 <a rel="nofollow" rel="me" href="https://bitcoinhackers.org/@berkes">Mastodon Verification</a></li>
 </ul>
