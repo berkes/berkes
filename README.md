@@ -14,3 +14,9 @@ I am for hire, to solve your high-level software problems.
 * **Decisions** on languages, frameworks or libraries.
 
 ![berkes' GitHub stats](https://github-readme-stats.vercel.app/api?username=berkes&show_icons=true&theme=cobalt)
+
+---
+
+<ul>
+  <li>🐘 <a rel="me" href="https://bitcoinhackers.org/@berkes">Mastodon Verification</a></li>
+</ul>
