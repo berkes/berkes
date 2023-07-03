@@ -2,8 +2,6 @@
 
 I'm Bèr Kessels,
 
-Founder & Co-founder of Flockingbird and Plannel. 
-
 I'm building a scalable income: less work, more beekeeping & roadtripping in my '83 VW T3
 
 I am for hire, to solve your high-level software problems.
