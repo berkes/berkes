@@ -10,5 +10,3 @@ I am for hire, to solve your high-level software problems.
 * **Help** getting your Ruby(on Rails) application performant, untangled or cleaned up.
 * **Help** improving legacy software and mapping a path towards modernization.
 * **Decisions** on languages, frameworks or libraries.
-
-![berkes' GitHub stats](https://github-readme-stats.vercel.app/api?username=berkes&show_icons=true&theme=cobalt)
